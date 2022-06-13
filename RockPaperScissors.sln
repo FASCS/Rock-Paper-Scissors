@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RockPaperScissors", "RockPaperScissors\RockPaperScissors.vcxproj", "{75385F9D-9DC4-4CE9-89BF-0F021C8126BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75385F9D-9DC4-4CE9-89BF-0F021C8126BD}.Debug|x64.ActiveCfg = Debug|x64
+		{75385F9D-9DC4-4CE9-89BF-0F021C8126BD}.Debug|x64.Build.0 = Debug|x64
+		{75385F9D-9DC4-4CE9-89BF-0F021C8126BD}.Debug|x86.ActiveCfg = Debug|Win32
+		{75385F9D-9DC4-4CE9-89BF-0F021C8126BD}.Debug|x86.Build.0 = Debug|Win32
+		{75385F9D-9DC4-4CE9-89BF-0F021C8126BD}.Release|x64.ActiveCfg = Release|x64
+		{75385F9D-9DC4-4CE9-89BF-0F021C8126BD}.Release|x64.Build.0 = Release|x64
+		{75385F9D-9DC4-4CE9-89BF-0F021C8126BD}.Release|x86.ActiveCfg = Release|Win32
+		{75385F9D-9DC4-4CE9-89BF-0F021C8126BD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83F779DC-5EB5-4689-BA70-07CF4078564A}
+	EndGlobalSection
+EndGlobal
